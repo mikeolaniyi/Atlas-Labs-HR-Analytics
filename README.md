@@ -3,9 +3,10 @@
 
 
 ## [View Report Dashboard on Power BI Web](https://app.powerbi.com/view?r=eyJrIjoiY2E0ZjEzMmEtNTRlMy00Zjk1LWFmMTYtOWY1ODM2NDk1MDRmIiwidCI6IjEyMWFkMTYxLTk3MTAtNDQ3Ny1iYjZlLWJmZWNlMmMyMmFjOSJ9)
-![Atlas Labs HR Analytics Executive Summary](https://github.com/mikeolaniyi/Atlas-Labs-HR-Analytics/assets/120651356/715459e9-bebb-4f40-a97c-f6eec819589f)
+![Atlas Labs HR Analytics Executive Summary](https://github.com/mikeolaniyi/Atlas-Labs-HR-Analytics/assets/120651356/6ee5ca92-c632-46d7-b57a-1f3f5623526f)
 
 
+![Atlas Labs HR Analytics](https://github.com/mikeolaniyi/Atlas-Labs-HR-Analytics/assets/120651356/36c9d726-3dff-47c8-8f8d-f54d5b8ec785)
 - Dashboard Overview
 Total Employees: 1470
 Active Employees: 1233
@@ -16,6 +17,7 @@ The technology department has the highest number of active employees with 828.
 The sales department and sales executives are the most active employees.
 
 
+![Atlas Labs HR Analytics 2](https://github.com/mikeolaniyi/Atlas-Labs-HR-Analytics/assets/120651356/9b329c00-222d-4702-8239-0e733eda6e53)
 - Demographic
 Youngest Employee: 18
 Oldest Employee: 51
@@ -24,11 +26,14 @@ Highest Age Bin: 20 - 30
 Ethnicity: White ethnicity is the largest with 860 employees.
 
 
+![Atlas Labs HR Analytics 3](https://github.com/mikeolaniyi/Atlas-Labs-HR-Analytics/assets/120651356/f5878763-d321-49f5-b9fd-dd9434f3df06)
 - Performance Tracker
 Estelle Chung's ratings for job satisfaction, relationship satisfaction, and environment satisfaction are all 3, while work-life balance is rated 4 in 2022.
 The Manager's rating is 2, indicating a need for attention and improvements.
 
 
+
+![Atlas Labs HR Analytics 4](https://github.com/mikeolaniyi/Atlas-Labs-HR-Analytics/assets/120651356/77769f51-7878-470c-905b-d8dfebde3d02)
 - Attrition
 The overall attrition rate is 16.1%.
 Attrition rate by Department and Job Role: The sales department and sales representatives have the highest attrition rate at 39.8%.
@@ -36,6 +41,7 @@ Total Employees Attrition Rate by Business Travel: Frequent Travelers have the h
 Over time workers have an attrition rate of 30.5%.
 Within the past 10 years, Atlas Labs experienced the highest employee attrition in the year 2020 with 22%.
 Attrition by Tenure: The employees with 1 year of tenure at Atlas Labs have the highest attrition rate.
+
 
 
 ## Summary
