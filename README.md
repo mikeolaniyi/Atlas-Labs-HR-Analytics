@@ -26,14 +26,16 @@ Highest Age Bin: 20 - 30
 Ethnicity: White ethnicity is the largest with 860 employees.
 
 
-![Atlas Labs HR Analytics 3](https://github.com/mikeolaniyi/Atlas-Labs-HR-Analytics/assets/120651356/f5878763-d321-49f5-b9fd-dd9434f3df06)
+![Atlas Labs HR Analytics 3](https://github.com/mikeolaniyi/Atlas-Labs-HR-Analytics/assets/120651356/8e70d7f4-b5ce-4e38-8c3f-8b94c1b8a80f)
+
 - Performance Tracker
 Estelle Chung's ratings for job satisfaction, relationship satisfaction, and environment satisfaction are all 3, while work-life balance is rated 4 in 2022.
 The Manager's rating is 2, indicating a need for attention and improvements.
 
 
 
-![Atlas Labs HR Analytics 4](https://github.com/mikeolaniyi/Atlas-Labs-HR-Analytics/assets/120651356/77769f51-7878-470c-905b-d8dfebde3d02)
+![Atlas Labs HR Analytics 4](https://github.com/mikeolaniyi/Atlas-Labs-HR-Analytics/assets/120651356/82f35cc9-d338-439f-a8d7-1dace5f04e6e)
+
 - Attrition
 The overall attrition rate is 16.1%.
 Attrition rate by Department and Job Role: The sales department and sales representatives have the highest attrition rate at 39.8%.
