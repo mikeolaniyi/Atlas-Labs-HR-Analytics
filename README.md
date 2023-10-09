@@ -2,7 +2,10 @@
 ![HR-Analytics](https://github.com/mikeolaniyi/Atlas-Labs-HR-Analytics/assets/120651356/758b7964-af6f-4c86-8894-84148ddf3f82)
 
 
-## [View Report Dashboard on Power BI Web](https://app.powerbi.com/view?r=eyJrIjoiMDVmY2UyZDEtMGFkYi00ZDJlLWE0NzEtMDM1NmJjMDM5OWRiIiwidCI6IjEyMWFkMTYxLTk3MTAtNDQ3Ny1iYjZlLWJmZWNlMmMyMmFjOSJ9)
+## [View Report Dashboard on Power BI Web](https://app.powerbi.com/view?r=eyJrIjoiNzQ3NWQwNmYtM2ViZi00YTY3LWI4OTctNjcxMWE0NzMwYjkyIiwidCI6IjEyMWFkMTYxLTk3MTAtNDQ3Ny1iYjZlLWJmZWNlMmMyMmFjOSJ9)
+
+
+
 ![Atlas Labs HR Analytics Executive Summary](https://github.com/mikeolaniyi/Atlas-Labs-HR-Analytics/assets/120651356/6ee5ca92-c632-46d7-b57a-1f3f5623526f)
 
 
