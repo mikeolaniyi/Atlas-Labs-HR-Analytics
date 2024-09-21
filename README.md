@@ -1,4 +1,6 @@
 # Atlas Labs HR Analytics on Power BI
+By Michael Michael Jeremiah
+
 ![HR-Analytics](https://github.com/mikeolaniyi/Atlas-Labs-HR-Analytics/assets/120651356/758b7964-af6f-4c86-8894-84148ddf3f82)
 
 
